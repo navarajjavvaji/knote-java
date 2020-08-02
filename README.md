@@ -1,2 +1,2 @@
 # knote-java
-with mongodb setup
+Simple Spring Boot app to take notes
